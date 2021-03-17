@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fragianci and I'm 20 years old
+- 👋 Hi, I’m Francesco Giancipoli and I'm 20 years old
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Html/Css
 - 💞️ I’m looking to collaborate with people on interesting things
