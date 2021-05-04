@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francesco Giancipoli and I'm 20 years old
 - 👀 Web Developer
 - 💻 Website: https://fragianci.github.io/website/
-- 💞️ I’m looking to collaborate with people on interesting things
+- 👽 I’m looking to collaborate with people on interesting things
 - 📫 E-mail: francescogiancipoli15@gmail.com
 
 <!---
