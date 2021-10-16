@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Francesco Giancipoli and I'm 20 years old
-- 👀 Junior Software Developer in Acus, italian company
+- 👋 Hi, I’m Francesco Giancipoli and I'm 21 years old
+- 👀 Junior Software Developer in Acus, italian company based in Turin
 - 💻 Website: https://fragianci.github.io/website/
-- 👽 I’m looking to collaborate with people on interesting things
+- 👽 Never stop learning
 - 📫 E-mail: francescogiancipoli15@gmail.com
 
 <!---
