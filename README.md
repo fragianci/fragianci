@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francesco Giancipoli and I'm 21 years old
-- 👀 Junior Front end Developer
+- 👽 Junior Front end Developer
 - 💻 Website: https://fragianci.github.io/website/
-- 👽 Never stop learning
+- 👀 Never stop learning
 - 📫 E-mail: francescogiancipoli15@gmail.com
 
 <!---
